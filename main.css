@@ -1,0 +1,36 @@
+.box{
+    display: flex;
+   flex-direction: column;
+    justify-content: center;
+    width: 500px;
+    background-color: white;
+margin: 0 auto;
+margin-top: 250px;
+padding: 30px;
+border-radius: 10px;
+
+}
+.inp1{
+    position: relative;
+    width: 450px;
+    padding: 15px;
+    border:none;
+    border-radius: 50px;
+ font-size: 20px;
+ background-color: aliceblue;
+}
+.add{
+    position: absolute;
+    top: 378px;
+    left: 868px;
+    width: 130px;
+    padding: 12px;
+    border:none;
+    border-radius: 50px;
+ font-size: 25px;
+ background-color: orange;
+ color: white;
+}
+.body{
+    background-color: rgb(18, 18, 92);
+}
